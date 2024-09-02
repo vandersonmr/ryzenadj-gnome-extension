@@ -1,0 +1,8 @@
+{
+  "name": "ryzenadj-shell",
+  "description": "Easy interface to use ryzenadj to control APU power consumption",
+  "uuid": "ryzenadj@vandersonmr.com",
+  "shell-version": [
+    "46"
+  ]
+}
